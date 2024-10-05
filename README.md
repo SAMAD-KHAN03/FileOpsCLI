@@ -12,7 +12,7 @@ FileOpsCLI is a Command-Line Interface (CLI) file processing software built with
 6. **Specific Word Finder**: Search for a specific word in a file and return its positions.
 
 ## Getting Started
-
+node main.js
 ### Prerequisites
 
 - Node.js (v14 or higher)
